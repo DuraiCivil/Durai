@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.171" tests="3" skipped="0" failures="3" errors="0" timestamp="2025-11-21T18:19:17.264891900Z">
+<testcase classname="Facebook Login function inspections" name="Validate the login page of scenario with validate input" time="0.014">
+<failure/>
+<system-out><![CDATA[
+When to verify user is in Login Page........................................undefined
+And I clicked the login Button..............................................skipped
+Then It should navgate to thr product page..................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Facebook Login function inspections" name="Validate the login page of scenario with validate input" time="0.001">
+<failure/>
+<system-out><![CDATA[
+When to verify user is in Login Page........................................undefined
+And I clicked the login Button..............................................skipped
+Then It should navgate to thr product page..................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Facebook Login function inspections" name="Validate the login page of scenario with validate input" time="0.001">
+<failure/>
+<system-out><![CDATA[
+When to verify user is in Login Page........................................undefined
+And I clicked the login Button..............................................skipped
+Then It should navgate to thr product page..................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
