@@ -27,6 +27,7 @@ public class LoginFeature {
 	public void i_entered_the_username_and_password() {
 		driver.findElement(By.id("user-name")).sendKeys("standard_user");
 		driver.findElement(By.id("password")).sendKeys("secret_sauce");
+		driver.close();
 	    
 	}
 	@When("I clicked the login Button")
